@@ -1,0 +1,9 @@
+Wardogs Vehicle Radio
+Copyright 2026 jn2840
+
+This project is licensed under the Apache License, Version 2.0.
+It is an unofficial community utility, unaffiliated with Wardogs or Spotify.
+
+NAudio is used under its MIT license. See THIRD-PARTY-NOTICES.txt.
+The portable build includes the Microsoft .NET runtime and its license notices.
+VB-CABLE is not distributed with this project; install it separately from VB-Audio.
